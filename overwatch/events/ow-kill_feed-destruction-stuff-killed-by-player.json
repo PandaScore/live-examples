@@ -1,0 +1,41 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "destruction",
+    "killer": {
+      "type": "player",
+      "object": {
+        "id": 20314,
+        "name": "Jasper",
+        "team": 1,
+        "position": 1,
+        "hero": {
+          "id": 509,
+          "name": "D.Va"
+        }
+      }
+    },
+    "killed": {
+      "type": "stuff",
+      "object": {
+        "name": "Mech",
+        "player": {
+          "id": null,
+          "position": null
+        },
+        "hero": {
+          "id": null,
+          "name": "D.Va"
+        }
+      }
+    }
+  },
+  "match": {
+    "id": 542279
+  },
+  "game": {
+    "id": 3147
+  },
+  "ts": 1567636401543,
+  "id": "8b94c46fffced05453858555eb6073da"
+}

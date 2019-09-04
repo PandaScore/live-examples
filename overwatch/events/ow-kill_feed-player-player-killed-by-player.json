@@ -1,0 +1,40 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "player",
+    "killer": {
+      "type": "player",
+      "object": {
+        "id": 20316,
+        "name": "Sowhat",
+        "team": 1,
+        "position": 0,
+        "hero": {
+          "id": 511,
+          "name": "Reinhardt"
+        }
+      }
+    },
+    "killed": {
+      "type": "player",
+      "object": {
+        "id": 18917,
+        "name": "Flora",
+        "team": 0,
+        "position": 2,
+        "hero": {
+          "id": 509,
+          "name": "D.Va"
+        }
+      }
+    }
+  },
+  "match": {
+    "id": 542279
+  },
+  "game": {
+    "id": 3147
+  },
+  "ts": 1567636401543,
+  "id": "b3c30b7559aa9f96e580a02263024c28"
+}

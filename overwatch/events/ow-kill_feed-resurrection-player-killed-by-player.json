@@ -1,0 +1,40 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "resurrection",
+    "killer": {
+      "type": "player",
+      "object": {
+        "id": 18887,
+        "name": "DayDream",
+        "team": 0,
+        "position": 4,
+        "hero": {
+          "id": 517,
+          "name": "Mercy"
+        }
+      }
+    },
+    "killed": {
+      "type": "player",
+      "object": {
+        "id": 18881,
+        "name": "AlphaYi",
+        "team": 0,
+        "position": 3,
+        "hero": {
+          "id": 498,
+          "name": "Pharah"
+        }
+      }
+    }
+  },
+  "match": {
+    "id": 542278
+  },
+  "game": {
+    "id": 3142
+  },
+  "ts": 1567636401372,
+  "id": "e3176ea56932dc3b6008997960e916ee"
+}

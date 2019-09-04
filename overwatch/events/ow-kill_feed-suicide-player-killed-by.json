@@ -1,0 +1,28 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "suicide",
+    "killer": null,
+    "killed": {
+      "type": "player",
+      "object": {
+        "id": 18917,
+        "name": "Flora",
+        "team": 0,
+        "position": 2,
+        "hero": {
+          "id": 509,
+          "name": "D.Va"
+        }
+      }
+    }
+  },
+  "match": {
+    "id": 542279
+  },
+  "game": {
+    "id": 3146
+  },
+  "ts": 1567636401536,
+  "id": "cffa884ad9c08eeda75919d75116e710"
+}

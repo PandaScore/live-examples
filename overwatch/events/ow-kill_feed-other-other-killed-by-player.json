@@ -1,0 +1,33 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "other",
+    "killer": {
+      "type": "player",
+      "object": {
+        "id": 18894,
+        "name": "Stalk3r",
+        "team": 1,
+        "position": 2,
+        "hero": {
+          "id": 514,
+          "name": "Zarya"
+        }
+      }
+    },
+    "killed": {
+      "type": "other",
+      "object": {
+        "name": "mech"
+      }
+    }
+  },
+  "match": {
+    "id": 542274
+  },
+  "game": {
+    "id": 3124
+  },
+  "ts": 1567636400877,
+  "id": "e23a0c5ea2444de46639a241a9c15df3"
+}
