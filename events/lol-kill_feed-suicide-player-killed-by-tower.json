@@ -1,0 +1,35 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "suicide",
+    "killer": {
+      "type": "tower",
+      "object": {
+        "name": "tower blue",
+        "team": "blue"
+      }
+    },
+    "killed": {
+      "type": "player",
+      "object": {
+        "id": 19383,
+        "name": "Southwind",
+        "team": "red",
+        "role": "sup",
+        "champion": {
+          "id": 2488,
+          "name": "Rakan"
+        }
+      }
+    }
+  },
+  "match": {
+    "id": 525238
+  },
+  "game": {
+    "id": 203216
+  },
+  "ingame_timestamp": 57,
+  "ts": 1567636085879,
+  "id": "26ebdd74791e1bfe38fa5496dace7d4d"
+}

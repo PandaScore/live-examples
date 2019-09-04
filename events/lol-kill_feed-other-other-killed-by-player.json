@@ -1,0 +1,34 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "other",
+    "killer": {
+      "type": "player",
+      "object": {
+        "id": 899,
+        "name": "Triple",
+        "team": "red",
+        "role": "mid",
+        "champion": {
+          "id": 2398,
+          "name": "Lissandra"
+        }
+      }
+    },
+    "killed": {
+      "type": "other",
+      "object": {
+        "name": "tower azir"
+      }
+    }
+  },
+  "match": {
+    "id": 525019
+  },
+  "game": {
+    "id": 202969
+  },
+  "ingame_timestamp": 1477,
+  "ts": 1567636084699,
+  "id": "d42ba51674bdc14581155cc55e6734aa"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "suicide",
+    "killer": {
+      "type": "baron_nashor",
+      "object": {
+        "name": "baron nashor"
+      }
+    },
+    "killed": {
+      "type": "player",
+      "object": {
+        "id": 7646,
+        "name": "Crisp",
+        "team": "red",
+        "role": "sup",
+        "champion": {
+          "id": 2443,
+          "name": "Tahm Kench"
+        }
+      }
+    }
+  },
+  "match": {
+    "id": 525164
+  },
+  "game": {
+    "id": 203109
+  },
+  "ingame_timestamp": 1798,
+  "ts": 1567636084815,
+  "id": "9742b2b2e7910355252f1d8776d7da4d"
+}

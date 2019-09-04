@@ -1,0 +1,34 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "baron_nashor",
+    "killer": {
+      "type": "player",
+      "object": {
+        "id": 19384,
+        "name": "Puff",
+        "team": "red",
+        "role": "adc",
+        "champion": {
+          "id": 2457,
+          "name": "Vayne"
+        }
+      }
+    },
+    "killed": {
+      "type": "baron_nashor",
+      "object": {
+        "name": "baron nashor"
+      }
+    }
+  },
+  "match": {
+    "id": 525506
+  },
+  "game": {
+    "id": 203234
+  },
+  "ingame_timestamp": 1726,
+  "ts": 1567636086161,
+  "id": "2cb973fe960101dbf2761a46dba6d17c"
+}

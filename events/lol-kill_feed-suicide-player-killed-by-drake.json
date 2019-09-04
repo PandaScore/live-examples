@@ -1,0 +1,35 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "suicide",
+    "killer": {
+      "type": "drake",
+      "object": {
+        "name": "drake ocean",
+        "type": "ocean"
+      }
+    },
+    "killed": {
+      "type": "player",
+      "object": {
+        "id": 2512,
+        "name": "Lies",
+        "team": "blue",
+        "role": "top",
+        "champion": {
+          "id": 2390,
+          "name": "Kennen"
+        }
+      }
+    }
+  },
+  "match": {
+    "id": 525185
+  },
+  "game": {
+    "id": 203170
+  },
+  "ingame_timestamp": 377,
+  "ts": 1567636085345,
+  "id": "643f420fcf99eddb147b0616459e4c4b"
+}

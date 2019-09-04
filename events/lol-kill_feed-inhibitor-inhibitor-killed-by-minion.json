@@ -1,0 +1,29 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "inhibitor",
+    "killer": {
+      "type": "minion",
+      "object": {
+        "name": "minion melee red",
+        "team": "red"
+      }
+    },
+    "killed": {
+      "type": "inhibitor",
+      "object": {
+        "name": "inhib blue",
+        "team": "blue"
+      }
+    }
+  },
+  "match": {
+    "id": 525474
+  },
+  "game": {
+    "id": 203227
+  },
+  "ingame_timestamp": 2445,
+  "ts": 1567636086039,
+  "id": "acb4a284458a867401b07f23ad7b2df7"
+}

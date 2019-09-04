@@ -1,0 +1,41 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "player",
+    "killer": {
+      "type": "player",
+      "object": {
+        "id": 1577,
+        "name": "lwx",
+        "team": "blue",
+        "role": "adc",
+        "champion": {
+          "id": 2382,
+          "name": "Kai'Sa"
+        }
+      }
+    },
+    "killed": {
+      "type": "player",
+      "object": {
+        "id": 19386,
+        "name": "Jay",
+        "team": "red",
+        "role": "mid",
+        "champion": {
+          "id": 2474,
+          "name": "Zoe"
+        }
+      }
+    }
+  },
+  "match": {
+    "id": 525506
+  },
+  "game": {
+    "id": 203234
+  },
+  "ingame_timestamp": 1874,
+  "ts": 1567636086162,
+  "id": "abdba87884bb0e022dbd49ae5e3f38a9"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "drake",
+    "killer": {
+      "type": "player",
+      "object": {
+        "id": 443,
+        "name": "doinb",
+        "team": "blue",
+        "role": "mid",
+        "champion": {
+          "id": 2351,
+          "name": "Cassiopeia"
+        }
+      }
+    },
+    "killed": {
+      "type": "drake",
+      "object": {
+        "name": "drake ocean",
+        "type": "ocean"
+      }
+    }
+  },
+  "match": {
+    "id": 525506
+  },
+  "game": {
+    "id": 203234
+  },
+  "ingame_timestamp": 1506,
+  "ts": 1567636086161,
+  "id": "e9994185b9ef6a4bbe1e1cf341e82ece"
+}

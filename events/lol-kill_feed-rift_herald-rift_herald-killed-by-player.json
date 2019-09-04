@@ -1,0 +1,34 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "rift_herald",
+    "killer": {
+      "type": "player",
+      "object": {
+        "id": 8953,
+        "name": "Tian",
+        "team": "blue",
+        "role": "jun",
+        "champion": {
+          "id": 2377,
+          "name": "Jarvan IV"
+        }
+      }
+    },
+    "killed": {
+      "type": "rift_herald",
+      "object": {
+        "name": "riftherald"
+      }
+    }
+  },
+  "match": {
+    "id": 525506
+  },
+  "game": {
+    "id": 203234
+  },
+  "ingame_timestamp": 815,
+  "ts": 1567636086159,
+  "id": "56b029f17cc6635f78fcbcc36c117137"
+}

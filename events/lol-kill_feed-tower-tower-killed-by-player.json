@@ -1,0 +1,35 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "tower",
+    "killer": {
+      "type": "player",
+      "object": {
+        "id": 882,
+        "name": "Gimgoon",
+        "team": "blue",
+        "role": "top",
+        "champion": {
+          "id": 2462,
+          "name": "Vladimir"
+        }
+      }
+    },
+    "killed": {
+      "type": "tower",
+      "object": {
+        "name": "tower red",
+        "team": "red"
+      }
+    }
+  },
+  "match": {
+    "id": 525506
+  },
+  "game": {
+    "id": 203234
+  },
+  "ingame_timestamp": 1885,
+  "ts": 1567636086162,
+  "id": "43494366aa1109dd9b0c90cf904d2f14"
+}

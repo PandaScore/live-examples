@@ -1,0 +1,29 @@
+{
+  "type": "kill_feed",
+  "payload": {
+    "type": "tower",
+    "killer": {
+      "type": "minion",
+      "object": {
+        "name": "minion siege red",
+        "team": "red"
+      }
+    },
+    "killed": {
+      "type": "tower",
+      "object": {
+        "name": "tower blue",
+        "team": "blue"
+      }
+    }
+  },
+  "match": {
+    "id": 525506
+  },
+  "game": {
+    "id": 203234
+  },
+  "ingame_timestamp": 1801,
+  "ts": 1567636086161,
+  "id": "e32ce16bca7c37922035f8b3fad464fe"
+}
